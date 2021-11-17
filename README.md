@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Uadj
+- 👋 Hi, I’m Gyuwon Do
 - 👀 I’m interested in game, web backend
 - 🌱 I’m currently practicing algorithm
 - 💞️ I’m looking to collaborate on company that can give me bright vision.
