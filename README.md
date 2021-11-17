@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Uadj
-- 👀 I’m interested in game, web
-- 🌱 I’m currently learning algorithm
+- 👀 I’m interested in game, web backend
+- 🌱 I’m currently practicing algorithm
 - 💞️ I’m looking to collaborate on company that can give me bright vision.
 - 📫 How to reach me ds257873@naver.com
 
