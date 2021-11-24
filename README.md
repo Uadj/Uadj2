@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Gyuwon Do
-- 👀 I’m interested in game, web backend
-- 🌱 I’m currently practicing algorithm
+- 👋 Hi, I’m Gyuwon Do.
+- 👀 I’m interested in game, web backend.
+- 🌱 I’m currently practicing algorithm.
 - 💞️ I want company that can give me bright vision.
 - 📫 How to reach me ds257873@naver.com
 
