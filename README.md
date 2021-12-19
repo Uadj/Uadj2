@@ -8,9 +8,10 @@
 - 개발자로서 대우를 받을 수 있는 곳에서 일하고 싶습니다.
 - 📫 How to reach me ds257873@naver.com 
 
-프로젝트 난이도 Project level
-A : 한달 이상 more than a month
-B : 일주일 이상 a week
+프로젝트 난이도 Project level<br>
+A : 한달 이상 more than a month<br>
+
+B : 일주일 이상 a week<br>
 C : 수 일 미만 a few days
 
 <!---
