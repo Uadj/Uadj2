@@ -10,7 +10,6 @@
 
 프로젝트 난이도 Project level<br>
 A : 한달 이상 more than a month<br>
-
 B : 일주일 이상 a week<br>
 C : 수 일 미만 a few days
 
