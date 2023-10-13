@@ -5,7 +5,7 @@
 - 🌱 I’m currently practicing algorithm. 
 - 알고리즘을 집중적으로 공부중입니다.
 - 💞️ I wanna work at company that can give me bright vision. 
-- 상호존중과 성장이 이뤄지는 곳에서 일하고 싶습니다.
+- 성장이 이뤄지는 곳에서 일하고 싶습니다.
 - 📫 How to reach me ds257873@naver.com 
 
 <!---
